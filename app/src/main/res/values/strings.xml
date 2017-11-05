@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="tab_text_1">Item 1</string>
+    <string name="tab_text_2">Item 2</string>
+    <string name="tab_text_3">Item 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_4">Item 4</string>
+    <string name="tab_text_5">Item 5</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview3">Textview 3</string>
+    <string name="textview1">Textview 1</string>
+    <string name="textview2">Textview 2</string>
+    <string name="red_button">redBtn</string>
+    <string name="green_button">greenBtn</string>
+    <string name="blue_button">blueBtn</string>
+    <string name="fragment" formatted="false">Fragment No : %d</string>
+    <string name="fragment_one">Fragment 1</string>
+    <string name="fragment_two">Fragment 2</string>
+    <string name="fragment_three">Fragment 3</string>
+    <string name="fragment_four">Fragment 4</string>
+</resources>
